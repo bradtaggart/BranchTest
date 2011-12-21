@@ -9,6 +9,7 @@ public class TestMain {
 		// TODO Auto-generated method stub
 		// this is in the master branch
 		// this is a bug fix in the master branch
+		// this is another bug fix in the master branch
 	}
 
 }
