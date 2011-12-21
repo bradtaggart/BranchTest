@@ -10,6 +10,8 @@ public class TestMain {
 		// this is in the master branch
 		// this is in v1.1 branch
 		// added a new feature in the v1.1 branch
+		// this is a bug fix in the master branch
+		// this is another bug fix in the master branch
 	}
 
 }
